@@ -43,7 +43,7 @@ It is too early to get into the specifics of the REST API that our gamification 
 The work pages are described in these pages:
 
 * [Work package 1](WP1.md)
-* Work Package 2 (coming later)
+* [Work package 2](WP2.md)
 * Work Package 3 (coming later)
 
 ## Groups
